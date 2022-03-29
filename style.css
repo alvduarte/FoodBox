@@ -1,0 +1,52 @@
+body {
+  background-color: lightgray;
+  font-family: sans-serif;
+}
+.titulo {
+  background-color: red;
+  color: white;
+  padding: 15px;
+  border-radius: 10px;
+}
+.prato {
+  background-color: white;
+  color: black;
+  padding: 30px;
+  border-radius: 10px;
+  margin: 5px;
+}
+h1 {
+  font-size: 30px;
+  margin: 0;
+}
+h2 {
+  margin: 0;
+  font-size: 10px;
+}
+h3 {
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+h4 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+h5 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 20px;
+}
+img {
+  width: 130px;
+  border-radius: 5px;
+  float: right;
+}
+button {
+  background-color: green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+  margin-bottom: 5px;
+}
